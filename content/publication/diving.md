@@ -56,6 +56,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "View Journal Article", url = "https://www.sciencedirect.com/science/article/pii/S0003347218300137"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
