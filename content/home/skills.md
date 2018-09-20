@@ -16,15 +16,39 @@ weight = 20
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "files-o"
-  icon_pack = "fa"
-  name = "Data Driven"
-  description = "..."
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  # description = "90%"
   
 [[feature]]
-  icon = "pencil"
-  icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Statistics"
+  # description = "100%"  
+
+[[feature]]
+  icon = "map"
+  icon_pack = "fas"
+  name = "GIS"
+  # description = "10%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Field work"
+  # description = "10%"
+  
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Public speaking"
+  # description = "10%"
+  
+[[feature]]
+  icon = "anchor"
+  icon_pack = "fas"
+  name = "Boat handling"
+  # description = "10%"
 
 +++
