@@ -29,7 +29,7 @@ weight = 1
  
 +++
 
-# About Me
+# About me
 
 I recently obtained my Ph.D. from Georgetown University working with Dr. Janet Mann of the Shark Bay Dolphin Research Project. My dissertation is titled "Social and Behavioral Responses to Environmental Stressors in Bottlenose Dolphins (*Tursiops aduncus*) in Shark Bay, Australia."
 
