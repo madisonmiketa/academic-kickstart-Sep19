@@ -5,6 +5,9 @@ date = 2016-04-27T00:00:00
 # Project title.
 title = "Queensland Large Shark Tagging Program"
 
+# Order
+weight = 2
+
 # Project summary to display on homepage.
 summary = "*Research Intern*. 2012. Assisted with tagging large shark species (primarily Bull sharks) along the Southern Great Barrier Reef. Also assisted with necropsies and performed a Stable Isotope Analysis on 200+ tissue samples."
 
