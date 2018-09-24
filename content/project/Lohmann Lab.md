@@ -5,6 +5,9 @@ date = 2016-04-27T00:00:00
 # Project title.
 title = "The Lohmann Lab at the University of North Carolina"
 
+# Order 
+weight = 10
+
 # Project summary to display on homepage.
 summary = "*Research Associate*. 2008. Assisted with a study determining the use of geomagnetic fields in navigation by Loggerhead sea turtles."
 
