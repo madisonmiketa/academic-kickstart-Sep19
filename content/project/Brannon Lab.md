@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Dr. Elizabeth Brannon's Lab at Duke University (now at UPenn)"
+title = "Dr. Elizabeth Brannon's Lab at Duke University (now at the University of Pennsylvania)"
 
 # Order 
 weight = 5
