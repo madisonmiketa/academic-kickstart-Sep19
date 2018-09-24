@@ -5,6 +5,9 @@ date = 2016-04-27T00:00:00
 # Project title.
 title = "Dr. Ruth Colwills's Lab at Brown University"
 
+# Order 
+weight = 8
+
 # Project summary to display on homepage.
 summary = "*Research Assistant*. 2009-2010. Conducted studies determining the effects of PCBs on Zebra Fish development and behavior."
 
