@@ -33,4 +33,4 @@ weight = 1
 
 I recently obtained my Ph.D. from Georgetown University working with Dr. Janet Mann of the Shark Bay Dolphin Research Project. My dissertation is titled "Social and Behavioral Responses to Environmental Stressors in Bottlenose Dolphins (*Tursiops aduncus*) in Shark Bay, Australia."
 
-I am interested in pursuing work in conservation or animal welfare. I am currently based in both Washington, D.C. and Durham, N.C.
+I am interested in using science to better inform conservation and animal welfare policies. I also enjoy working with complex data in R.  I am currently based in both Washington, D.C. and Durham, N.C.
