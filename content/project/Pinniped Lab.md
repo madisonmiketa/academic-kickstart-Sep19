@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Pinniped Cognition and Sensory Systems Lab at UCSC"
+title = "Pinniped Cognition and Sensory Systems Lab at the University of California, Santa Cruz"
 
 # Order 
 weight = 6
