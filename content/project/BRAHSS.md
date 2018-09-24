@@ -5,6 +5,9 @@ date = 2016-04-27T00:00:00
 # Project title.
 title = "Behavioral Response of Australian Humpback Whales to Seismic Surveys (BRAHSS)"
 
+# Order
+weight = 4
+
 # Project summary to display on homepage.
 summary = "*Field Assistant*. 2011. Assisted with land-based surveys and behavioral observations of Australian Humpback whales during seismic surveys."
 
