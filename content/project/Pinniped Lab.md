@@ -9,7 +9,7 @@ title = "Pinniped Cognition and Sensory Systems Lab at the University of Califor
 weight = 6
 
 # Project summary to display on homepage.
-summary = "*Research Intern*. 2010. Assisted with a discriminative learning set study with a juvenile California Sea Lion and a transitive cross-modal study with an adult California Sea Lion."
+summary = "*Research Intern*. 2010. Helped set-up and manage a discriminative learning set study with a juvenile California sea lion and a transitive cross-modal study with an adult California Sea Lion. Also assisted with acoustic studies examining the impacts of noise on pinniped and sea otter hearing."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Pinniped.jpg"
