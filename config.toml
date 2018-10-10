@@ -273,7 +273,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Research Experience"
+  name = "Work Experience"
   url = "#projects"
   weight = 4
   
