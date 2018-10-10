@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Shark Bay Dolphin Research Project"
 
 # Order
-weight = 2
+weight = 3
 
 # Project summary to display on homepage.
 summary = "*Graduate Student Researcher*. 2013-2018. Studied bottlenose dolphin behavioral ecology, specifically behavioral responses to various environmental stressors."
