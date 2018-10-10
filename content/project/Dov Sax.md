@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Dr. Dov Sax's Lab at Brown University"
 
 # Order 
-weight = 7
+weight = 9
 
 # Project summary to display on homepage.
 summary = "*Honors Thesis Research*. 2009-2010. Examined all 480+ species of shark to determine if common biogeographical patterns are applicable. Honors thesis titled: Titled Biogeographyof Shark Species Worldwide."
