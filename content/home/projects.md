@@ -8,7 +8,7 @@ title = "Work Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # Content.
 # Display content from the following folder.
