@@ -276,6 +276,11 @@ enableGitInfo = false
   name = "Research Experience"
   url = "#projects"
   weight = 4
+  
+[[menu.main]]
+  name = "Volunteer Work"
+  url = "#volunteer"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
