@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Dr. Elizabeth Brannon's Lab at Duke University (now at the University of Pennsylvania)"
 
 # Order 
-weight = 5
+weight = 7
 
 # Project summary to display on homepage.
 summary = "*Research Assistant*. 2011. Assisted with a numerical cognition study in Rhesus macaques at two field stations in Puerto Rico (Cayo Santiago and Sabana Seca). Assisted with multiple studies examining numerical cognition in multiple lemur species at the Duke Lemur Center. Also developed and managed a match-to-sample vs. non-match-to- sample study in lemurs at the Duke Lemur Center."
