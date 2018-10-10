@@ -9,7 +9,7 @@ title = "City Wildlife"
 weight = 2
 
 # Project summary to display on homepage.
-summary = "*Wildlife Rehabilitation Volunteer*. 2014-2017. Assisted with the rehabilitation of injured and orphaned wildlife"
+summary = "*Wildlife Rehabilitation Volunteer*. 2014 - 2017. Assisted with the rehabilitation of injured and orphaned wildlife"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CityWildlife.jpg"
