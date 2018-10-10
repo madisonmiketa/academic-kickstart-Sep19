@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Shark Bay Dolphin Research Project", url = "https://www.monkeymiadolphins.org" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG_5480.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "madison.miketa@gmail.com"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
