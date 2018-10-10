@@ -31,6 +31,6 @@ weight = 1
 
 # About me
 
-I am a Post-Doctoral Fellow at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I recently obtained my Ph.D. in Biology working with Dr. Janet Mann where I studied the social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia.
+I am a Post-Doctoral Fellow at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I recently obtained my Ph.D. in Biology studying the social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia while working with Dr. Janet Mann.
 
 I am interested in using science to better inform conservation and animal welfare policies. I also enjoy working with complex data in R.  I am currently based in both Washington, D.C. and Durham, N.C.
