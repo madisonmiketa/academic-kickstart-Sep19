@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Dr. Jamie Seymour's Lab at James Cook University, Cairns"
 
 # Order 
-weight = 9
+weight = 11
 
 # Project summary to display on homepage.
 summary = "*Research Assistant*. 2009. Observed the changes in growth and spot patterns of a juvenile Leopard Shark and assisted with collecting acoustic tracking data for multiple megafauna species on the Great Barrier Reef."
