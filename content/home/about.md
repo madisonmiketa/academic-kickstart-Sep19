@@ -33,4 +33,4 @@ weight = 1
 
 I am a Postdoctoral Fellow at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I recently obtained my Ph.D. in Biology studying the social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia while working with Dr. Janet Mann. I'm also currently a Widlife Policy Intern with The Humane Society of the United States.
 
-I am interested in using science to better inform conservation and animal welfare policies. I also have a strong interest in data science with 5 years of experience using R. I am currently based in both Washington, D.C. and Durham, N.C.
+I am interested in using science to better inform conservation and animal welfare policies. I also have a strong interest in data science with 5 years of experience with R. I am currently based in both Washington, D.C. and Durham, N.C.
