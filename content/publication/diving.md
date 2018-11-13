@@ -26,7 +26,7 @@ abstract = "Maternal care varies across taxa from brief, minimal care to long-te
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "IMG_0649 - MLM.JPG"
 
 # Is this a selected publication? (true/false)
 selected = false
