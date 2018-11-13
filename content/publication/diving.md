@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = "IMG_0649 - MLM.JPG"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
