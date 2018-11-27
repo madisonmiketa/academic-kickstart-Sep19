@@ -9,7 +9,7 @@ title = "Shark Bay Dolphin Research Project"
 weight = 3
 
 # Project summary to display on homepage.
-summary = "*Graduate Student Researcher*. 2013-2018. Studied bottlenose dolphin behavioral ecology, specifically behavioral responses to various environmental stressors."
+summary = "*PhD Student*. 2013-2018. Studied bottlenose dolphin behavioral ecology, specifically behavioral responses to various environmental stressors."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
