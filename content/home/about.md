@@ -33,4 +33,4 @@ weight = 1
 
 I am a Postdoctoral Fellow at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I recently obtained my Ph.D. in Biology studying the social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia while working with Dr. Janet Mann.
 
-I am interested in how animals behaviorally respond to various stressors (both natural and anthropogenic), specifically in the marine environment. I hope to use science to better inform conservation and animal welfare policies. I have a strong interest in data science with over 5 years of experience with R. I am currently based in both Washington, D.C. and Chapel Hill, N.C.
+I am interested in how animals behaviorally respond to various stressors (both natural and anthropogenic), specifically in the marine environment. I hope to use science to better inform conservation and animal welfare policies. I also have a strong interest in data science with over 5 years of experience with R. I am currently based in both Washington, D.C. and Chapel Hill, N.C.
