@@ -76,3 +76,4 @@ caption = ""
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+{{< figure library="1" src="IMG_0649 - MLM.jpg" title="A caption" >}}
