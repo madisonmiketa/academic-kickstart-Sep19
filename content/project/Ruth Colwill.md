@@ -9,7 +9,8 @@ title = "Dr. Ruth Colwills's Lab at Brown University"
 weight = 10
 
 # Project summary to display on homepage.
-summary = "*Research Assistant*. 2009-2010. Conducted studies determining the effects of PCBs on Zebra Fish development and behavior."
+summary = "*Research Assistant*. 2009-2010. Impacts of PCBs on Zebrafish development and behavior"
+# Conducted studies determining the effects of PCBs on Zebrafish development and behavior.
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Brown.jpg"
