@@ -26,7 +26,8 @@ weight = 1
   institution = "Brown University"
   year = 2010
 
- 
+ [header]
+  image = "header.JPG"
 +++
 
 # About me
