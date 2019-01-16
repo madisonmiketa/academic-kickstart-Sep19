@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Shark Bay Dolphin Research Project"
 
 # Order
-weight = 2
+weight = 1
 
 # Project summary to display on homepage.
 summary = "*Postdoctoral Scientist*. 2018 - Present."
