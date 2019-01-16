@@ -9,7 +9,8 @@ title = "The Lohmann Lab at the University of North Carolina"
 weight = 12
 
 # Project summary to display on homepage.
-summary = "*Research Associate*. 2008. Assisted with a study determining the use of geomagnetic fields in navigation by Loggerhead sea turtles."
+summary = "*Research Associate*. 2008. Geomagnetic navigation in Loggerhead sea turtles"
+# Assisted with a study determining the use of geomagnetic fields in navigation by Loggerhead sea turtles."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
