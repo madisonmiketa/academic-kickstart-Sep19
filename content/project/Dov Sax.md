@@ -9,7 +9,8 @@ title = "Dr. Dov Sax's Lab at Brown University"
 weight = 9
 
 # Project summary to display on homepage.
-summary = "*Honors Thesis Research*. 2009-2010. Examined all 480+ species of shark to determine if common biogeographical patterns are applicable. Honors thesis titled: Titled Biogeographyof Shark Species Worldwide."
+summary = "*Honors Thesis Research*. 2009-2010. Biogeographical patterns in sharks
+# Examined all 480+ species of shark to determine if common biogeographical patterns are applicable. Honors thesis titled: Titled Biogeographyof Shark Species Worldwide.
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Brown.jpg"
