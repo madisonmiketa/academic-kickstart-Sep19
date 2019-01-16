@@ -9,7 +9,8 @@ title = "Dr. Jamie Seymour's Lab at James Cook University, Cairns"
 weight = 11
 
 # Project summary to display on homepage.
-summary = "*Research Assistant*. 2009. Observed the changes in growth and spot patterns of a juvenile Leopard Shark and assisted with collecting acoustic tracking data for multiple megafauna species on the Great Barrier Reef."
+summary = "*Research Assistant*. 2009. Ontogeny and passive acoustic monitoring in sharks"
+# Observed the changes in growth and spot patterns of a juvenile Leopard Shark and assisted with collecting acoustic tracking data for multiple megafauna species on the Great Barrier Reef.
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "example.jpg"
