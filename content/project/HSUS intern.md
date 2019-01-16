@@ -6,10 +6,10 @@ date = 2016-04-27T00:00:00
 title = "The Humane Society of the United States"
 
 # Order
-weight = 1
+weight = 2
 
 # Project summary to display on homepage.
-summary = "*Wildlife Policy Intern*. 2018 - Present."
+summary = "*Wildlife Policy Intern*. 2018."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "HSUS.jpg"
