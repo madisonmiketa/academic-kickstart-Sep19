@@ -10,7 +10,6 @@ weight = 6
 
 # Project summary to display on homepage.
 summary = "*Field Assistant*. 2011. Humpback whale behavioral responses to seismic surveys
-# Assisted with land-based surveys and behavioral observations of Australian Humpback whales during seismic surveys
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "BRAHSS.jpg"
