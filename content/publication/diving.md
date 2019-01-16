@@ -27,6 +27,7 @@ abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = "IMG_0649 - MLM.jpg"
+{{< figure library="1" src="IMG_0649 - MLM.jpg" title="A caption" >}}
 
 # Is this a selected publication? (true/false)
 selected = true
