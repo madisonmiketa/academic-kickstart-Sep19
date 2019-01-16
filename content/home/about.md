@@ -25,9 +25,7 @@ weight = 1
   course = "ScB in Biology"
   institution = "Brown University"
   year = 2010
-
- [header]
-  image = "header.JPG"
+  
 +++
 
 # About me
