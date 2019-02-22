@@ -9,8 +9,7 @@ title = "Stable female social bonds are associated with fitness in wild bottleno
 weight = 3
 
 # Project summary to display on homepage.
-summary = "*In Prep*.
-Madison L. Miketa, Margaret A. Stanton, Vivienne Foroughirad, Céline H. Frère, Alexis Levengood, Janet Mann"
+summary = "*In Prep*. Madison L. Miketa, Margaret A. Stanton, Vivienne Foroughirad, Céline H. Frère, Alexis Levengood, Janet Mann"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
