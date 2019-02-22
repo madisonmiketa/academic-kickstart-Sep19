@@ -5,6 +5,9 @@ date = 2016-04-27T00:00:00
 # Project title.
 title = "An extreme marine heatwave, massive seagrass die-off, and the impacts on an apex predator, the bottlenose dolphin"
 
+# Order
+weight = 1
+
 # Project summary to display on homepage.
 summary = "*Under Review*. Madison L. Miketa, Eric M. Patterson, Ewa Krzyszczyk, Megan M. Wallen, Kathy Murray, Michael Rule, Bart Huntley, Cindy Bessey, and Janet Mann"
 
