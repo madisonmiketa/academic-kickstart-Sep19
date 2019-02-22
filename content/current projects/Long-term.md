@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Stable female social bonds are associated with fitness in wild bottlenose dolphins. *In Prep*."
+title = "Stable female social bonds are associated with fitness in wild bottlenose dolphins." "*In Prep*."
 
 # Order
 weight = 3
