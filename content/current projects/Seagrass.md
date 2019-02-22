@@ -24,7 +24,5 @@ summary = "*Under Review* <br> Madison L. Miketa, Eric M. Patterson, Ewa Krzyszc
 # Does the project detail page use math formatting?
 math = false
 
-[Example image](/static/image.png)
-
 +++
 
