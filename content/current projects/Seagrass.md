@@ -3,7 +3,10 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "An extreme marine heatwave, massive seagrass die-off, and the impacts on an apex predator, the bottlenose dolphin. *Under Review*."
+title = "An extreme marine heatwave, massive seagrass die-off, and the impacts on an apex predator, the bottlenose dolphin."
+
+# Project title.
+status = "*Under Review*."
 
 # Order
 weight = 1
