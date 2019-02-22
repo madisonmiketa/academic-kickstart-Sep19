@@ -9,7 +9,7 @@ title = "Intersections of tattoo-skin disease and sociality among bottlenose dol
 weight = 2
 
 # Project summary to display on homepage.
-summary = "*Under Review*. Sarah N. Powell, Megan M. Wallen, Madison L. Miketa, Ewa Krzyszczyk, Shweta Bansal, Janet Mann"
+summary = "*Under Review*. <br> Sarah N. Powell, Megan M. Wallen, Madison L. Miketa, Ewa Krzyszczyk, Shweta Bansal, Janet Mann"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
