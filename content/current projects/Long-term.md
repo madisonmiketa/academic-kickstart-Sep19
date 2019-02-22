@@ -3,13 +3,14 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Stable female social bonds are associated with fitness in wild bottlenose dolphins." "*In Prep*."
+title = "Stable female social bonds are associated with fitness in wild bottlenose dolphins."
 
 # Order
 weight = 3
 
 # Project summary to display on homepage.
-summary = "Madison L. Miketa, Margaret A. Stanton, Vivienne Foroughirad, Céline H. Frère, Alexis Levengood, Janet Mann"
+summary = "*In Prep*.
+Madison L. Miketa, Margaret A. Stanton, Vivienne Foroughirad, Céline H. Frère, Alexis Levengood, Janet Mann"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
