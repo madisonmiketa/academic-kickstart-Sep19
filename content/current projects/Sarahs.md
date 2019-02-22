@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Intersections of tattoo-skin disease and sociality among bottlenose dolphins in Shark Bay, Australia"
+title = "Intersections of tattoo-skin disease and sociality among bottlenose dolphins in Shark Bay, Australia. *Under Review*."
 
 # Order
 weight = 2
 
 # Project summary to display on homepage.
-summary = "*Under Review*. Sarah N. Powell, Megan M. Wallen, Madison L. Miketa, Ewa Krzyszczyk, Shweta Bansal, Janet Mann"
+summary = "Sarah N. Powell, Megan M. Wallen, Madison L. Miketa, Ewa Krzyszczyk, Shweta Bansal, Janet Mann"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
