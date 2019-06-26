@@ -26,7 +26,7 @@ abstract = "Maternal care varies across taxa from brief, minimal care to long-te
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "IMG_0649 - MLM.jpg"
+image_preview = "featured.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -70,7 +70,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "IMG_0649 - MLM.jpg"
+image = "featured.jpg"
 caption = ""
 
 +++
