@@ -30,6 +30,6 @@ weight = 1
 
 # About me
 
-I am a Postdoctoral Scientist at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I earned my Ph.D. in August 2018 from Georgetown University, working with Dr. Janet Mann. My dissertation examined social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia.
+I am a Postdoctoral Scientist at Georgetown Univeristy with the Shark Bay Dolphin Research Project. I earned my Ph.D. in August 2018 from Georgetown University under the guidance of Dr. Janet Mann. My dissertation examined social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia.
 
 I am interested in how animals behaviorally respond to various stressors (both natural and anthropogenic), especially in the marine environment. I hope to use science to better inform conservation and animal welfare policies. I have nearly a decade of experience in animal behavior research, fieldwork, data science (R), and statistics.
