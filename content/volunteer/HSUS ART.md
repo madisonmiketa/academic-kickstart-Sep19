@@ -9,7 +9,7 @@ title = "The Humane Society of the United States"
 weight = 1
 
 # Project summary to display on homepage.
-summary = "*District Leader*. 2018 - Present. District Leader for North Carolina's 6th congressional district."
+summary = "*Animal Rescue Team*. 2019 - Present."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "HSUS.jpg"
