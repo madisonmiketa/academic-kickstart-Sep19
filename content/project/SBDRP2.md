@@ -9,7 +9,7 @@ title = "Shark Bay Dolphin Research Project"
 weight = 1
 
 # Project summary to display on homepage.
-summary = "*Postdoctoral Scientist*. 2018 - Present."
+summary = "*Postdoctoral Scientist*. 2018 - 2019."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "SBDRP.jpg"
