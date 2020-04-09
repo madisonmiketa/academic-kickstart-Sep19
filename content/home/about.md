@@ -11,6 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Animal Behavior",
+    "Animal Welfare",
     "Conservation",
     "Data Science"
   ]
@@ -30,6 +31,6 @@ weight = 1
 
 # About me
 
-I am a biologist studying animal behavior and conservation. I earned my Ph.D. in August 2018 from Georgetown University working with the Shark Bay Dolphin Research Project under the guidance of Dr. Janet Mann. My dissertation examined social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia.
+I am a biologist studying animal behavior, welfare, and conservation. I earned my Ph.D. in August 2018 from Georgetown University working with the Shark Bay Dolphin Research Project under the guidance of Dr. Janet Mann. My dissertation examined social and behavioral responses to environmental stressors in bottlenose dolphins (*Tursiops aduncus*) in Shark Bay, Australia.
 
-I am interested in how animals behaviorally respond to various stressors (both natural and anthropogenic), especially in the marine environment. I hope to work at the intersection of science, policy, and advocacy in order to use science to better inform conservation and animal welfare policies. I have over a decade of experience in animal behavior research, fieldwork, data science, and statistics.
+I am interested in how animals behaviorally respond to various stressors (both natural and anthropogenic), especially in the marine environment. I hope to work at the intersection of science, policy, and advocacy in order to use science to inform conservation and animal welfare policies. I have over a decade of experience in animal behavior research, fieldwork, data science, and statistics.
